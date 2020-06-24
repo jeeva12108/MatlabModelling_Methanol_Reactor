@@ -3,6 +3,7 @@ Methanol Reactor Modelling
 Authors-Jeeva, Gowtham, Balasubramanian
 Project at IIT Madras
 Adiabatic Plot of Methanol synthesis from Sync Gas
+Kinetic Model: Arhenius Equation
 }%
 
 function Fun=conversion_all_froment_with_delh(~,Fin)
